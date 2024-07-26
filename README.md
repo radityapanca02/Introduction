@@ -1,4 +1,18 @@
-<img src="logo.png" class="logos" style="display: block; margin-left: auto; margin-right: auto; opacity: 0.5; width: 100px; height: 100px; border-radius: 50%; margin: 20px; text-align: center;">
+<style>
+.logos {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.5;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 20px;
+    text-align: center;
+}
+</style>
+<img src="logo.png" class="logos">
+
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm M.Panca Raditya</h1>
