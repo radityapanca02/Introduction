@@ -1,6 +1,4 @@
-[![MasterHead]([https://ibb.co.com/0Fj866W](https://ibb.co.com/0Fj866W/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
-
-
+<img align="top" alt="Coding" width="200" src="(https://ibb.co.com/0Fj866W)">
 <h1 align="center">Hi 👋, I'm M.Panca Raditya</h1>
 <h3 align="center">Panggil Aku Panca, Aku Adalah Seorang Pelajar Dari Skariga</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
