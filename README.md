@@ -1,4 +1,4 @@
-<img align="top" width="200" src="(https://ibb.co.com/0Fj866W)">
+![logo](https://ibb.co.com/1Gt19DD)
 <h1 align="center">Hi 👋, I'm M.Panca Raditya</h1>
 <h3 align="center">Panggil Aku Panca, Aku Adalah Seorang Pelajar Dari Skariga</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
