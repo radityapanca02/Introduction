@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Logo" style="display: block; margin-left: auto; margin-right: auto; opacity: 0.5; width: 100px; height: 100px; border-radius: 50%; margin: 20px;">
 </p>
 
-<h1 align="center">Hi 👋, I'm M.Panca Raditya</h1>
+<h1 align="center">Hi 👋, I'm M.Panca Raditya P</h1>
 <h3 align="center">Panggil Aku Panca, Aku Adalah Seorang Pelajar Dari Skariga</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
